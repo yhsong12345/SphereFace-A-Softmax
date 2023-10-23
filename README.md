@@ -1,4 +1,5 @@
-# SphereFace-A-Softmax-
+# SphereFace-A-Softmax
+
 
 This is the practice for the implementation of Angualr softamx loss. It is done with MNIST dataset.
 
